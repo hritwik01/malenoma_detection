@@ -1,5 +1,5 @@
 # malenoma_detection
-This is a machine learning project for classifying skin cancer types using a convolutional neural network (CNN). Here's a step-by-step explanation of the code:
+This is a machine learning project for classifying skin cancer types using a convolutional neural network (CNN).For better understanding here's a step-by-step explanation of the code:
 
 1. **Creating Training and Validation Datasets**:
    - The code starts by creating training and validation datasets using `tf.keras.preprocessing.image_dataset_from_directory`. This function reads images from directories and converts them into TensorFlow datasets.
